@@ -1,5 +1,5 @@
 # hello-world
-## This is the second head
+## This is the second header ##
 
 This is an example sentence. 
 
